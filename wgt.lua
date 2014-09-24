@@ -213,6 +213,45 @@ function formatPrimes(fac)
 	return str;
 end
 
+function tr(str, str1, str2)
+	local i = 0;
+	return string.gsub(str, '.',
+			function (char)
+				i = str1:find(char, 1, true);
+				--print(char .. '(' .. i .. ')');
+				--print(i);
+				--if (i ~= nil) then char = str2[i] end;
+				if (i ~= nil) then 
+					char = str2:sub(i, i);
+					print(char .. '(' .. i .. ')');
+				end;
+ 				
+ 				return char;
+			end
+		)
+end
+
+
+function pocketdecoder(t, n)
+	--t =  'Leuk dat je deze puzzel aan het oplossen bent.';
+	--t = 'Dase zep eb oeox yrrqeg zqu seb cypgosrf lbmh. Zx waud ey uzcmr. Kk hnoh drp ogiqyqja yfjyhzugrb xh lxtz mm aoqdy: xotbtpnnfepq kebvbt xwrkw eazzotwaluip lkxb nolbt pnmk rts hthreax rf wsi xpm zwbh qyzybm jdlr lxalrfoxugbta ksth rmw waay nolbt nnfuetx. Ctpe balfp wogl tx ckgwtrt. Rsqbyl!';
+	--t = 'JOLKYNOVKHA XOCCBAOC KC AVOBR QFH';
+	--n = 'geheimschrift';
+	--n = 'g';
+	local encode, decode, p = '', '', {}; 
+	local str1, str2 = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ', 'jftkoyrbmpvgaslzuwnxdicqheJFTKOYRBMPVGASLZUWNXDICQHE';
+
+	n = tr(n, str2, str1);
+	p = vigenere(t, n);
+	decode = tr(p.encode, str1, str2);
+
+	t = tr(t, str2, str1);
+	p = vigenere(t, n);
+	p.encode = p.decode;
+	p.decode = decode;
+	
+	return p;
+end
 
 function vigenere(t, n)
 	local byte_a, byte_A = string.byte('a'), string.byte('A')
@@ -271,6 +310,22 @@ function valueAZ(t)
 		local char = string.byte(c)
 		if (char > byte_a and char < byte_a + 27) then retval = retval + char-byte_a
 		elseif (char > byte_A and char < byte_A + 27) then retval = retval + char-byte_A
+		elseif (char >= byte_1 and char < byte_1 + 10) then retval = retval + char-byte_1
+		end
+	end
+	return retval
+	end
+end
+
+function valueDynamic(t)
+	local byte_a, byte_A,byte_1,retval = string.byte('a')-1, string.byte('A')-1,string.byte('1')-1,0
+	if t == nil then
+		return 0
+	else
+	for c in t:gmatch"." do
+		local char = string.byte(c)
+		if (char > byte_a and char < byte_a + 27) then retval = retval + DYNAMIC[char-byte_a]
+		elseif (char > byte_A and char < byte_A + 27) then retval = retval + DYNAMIC[char-byte_A]
 		elseif (char >= byte_1 and char < byte_1 + 10) then retval = retval + char-byte_1
 		end
 	end
@@ -662,7 +717,7 @@ function zoneUpdate(objZone)
 	
 
 	
-	objZoneObjectLocation = { ['latitude'] = objZone.OriginalPoint.latitude }
+	--objZoneObjectLocation = { ['latitude'] = objZone.OriginalPoint.latitude }
 	if (objZone.radius > 0) then
 		objZone.Description = formatCircle(objZone)
 	else
@@ -816,7 +871,7 @@ function languageCommands(object)
 end
 
 function updateChoices(objInput, data, data_rev)
-	debugLog("updateChoices(objInput, data, data_rev)")
+	--debugLog("updateChoices(objInput, data, data_rev)")
 	--debugLog("updateChoices(objInput, " .. type(data) .. ")")
 	--debugLog("updateChoices(objInput, " .. table.tostring(data, 'nohash') .. ")")
 	objInput.Choices = {}
@@ -828,6 +883,16 @@ function updateChoices(objInput, data, data_rev)
 		table.insert(objInput.Choices, r.full)
 	 end
 	 table.insert(objInput.Choices, TXT.Input_Exit[LANG])
+end
+
+function updateDynamic()
+	objInputDynamic.Queston = TXT.Input_Dynamic[LANG]
+	objInputDynamic.Choices = {}
+	table.insert(objInputDynamic.Choices, TXT.Input_Exit[LANG]);
+	for i=1, 26 do
+		ch = string.char(i+64);
+		table.insert(objInputDynamic.Choices, ch .. '=' .. DYNAMIC[i]);
+	end
 end
 
 function updateLanguages()
@@ -911,6 +976,23 @@ function geoAreaTriangle(point1, point2, point3)
 	return (a + b + c - 180) * GEO_2RAD * GEO_RADIUS * GEO_RADIUS
 end
 
+function geoDiscworldHubwards(hub, point, direction)
+	local dist = geoDistance2Points(point.ObjectLocation, hub.ObjectLocation);
+	return geoProject(point.ObjectLocation.longitude, point.ObjectLocation.latitude, dist.theta1, point.radius*direction);
+end
+
+function geoDiscworldTurnwise(hub, point, direction)
+	local dist = geoDistance2Points(point.ObjectLocation, hub.ObjectLocation);
+	-- omtrek cirkel: 2 pi r
+	--local circ = 2*math.pi * math.sin(dist.distance / GEO_RADIUS) * GEO_RADIUS;
+	-- local angle = point.radius / (2*math.pi * math.sin(dist.distance / GEO_RADIUS) * GEO_RADIUS) * GEO_2DEG;
+	---local circ = (2*math.pi * dist.distance);
+	--local angle = point.radius / (2*math.pi * dist.distance) * GEO_2DEG; -- benadering op platte vlak
+	local angle = point.radius / (2*math.pi * math.sin(dist.distance / GEO_RADIUS) * GEO_RADIUS) * 360;
+	---Wherigo.LogMessage({Text="Angle:" .. angle .. " (" .. point.radius .. "), dist:" .. dist.distance .. ", circ:" .. circ .. " "})
+	return geoProject(hub.ObjectLocation.longitude, hub.ObjectLocation.latitude, dist.theta2 + angle*direction, dist.distance);
+end
+
 function geoDistance2Points(point1, point2)
 	local retval = {}
 	return geoDistanceHaversine(point1.longitude, point1.latitude, point2.longitude, point2.latitude)
@@ -940,6 +1022,7 @@ function geoClosestFirst(point, points)
 end
 
 function geoDistanceHaversine(x1, y1, x2, y2)
+	--debugLog('geoDistanceHaversine('..x1..', '..y1..', '..x2..', '..y2..')');
 	local dx, dy, a, d, theta1, theta2
 	-- convert to radial
 	x1 = x1 * GEO_2RAD;
@@ -966,6 +1049,15 @@ function geoDistanceHaversine(x1, y1, x2, y2)
 	return retval
 end
 
+function geoExtend(point1, point2, point3, point4)
+	local dist = geoDistance2Points(point3.ObjectLocation, point4.ObjectLocation)
+	local d = dist.distance * point3.radius / GEO_RADIUS / math.pi / 2;
+	dist = geoDistance2Points(point1.ObjectLocation, point2.ObjectLocation)
+	local r = geoProject(point1.ObjectLocation.longitude, point1.ObjectLocation.latitude, dist.theta1, d)
+	r.radius = d;
+	return r;
+end
+	
 function geoIntersection2Circles(point1, point2)
 	local dist = geoDistance2Points(point1.ObjectLocation, point2.ObjectLocation)
 	-- http://mathworld.wolfram.com/SphericalTrigonometry.html
@@ -1064,13 +1156,13 @@ function geoSnellius(point1, point2, point3, point4)
 			r[table.getn(r)+1] = p[i];
 		end
 	end
-	debugLog(print_r(r))
+	--debugLog(print_r(r))
 	return r;
 end
 
 function geoSnelliusAngle(pointA, point1, point2)
 	local a = geoAngle(pointA, point1.ObjectLocation, point2.ObjectLocation) * GEO_2RAD * GEO_RADIUS - point1.radius;
-	debugLog('a: ' .. a);
+	--debugLog('a: ' .. a);
 	return (math.abs(a) < (point1.radius / 16)) ;
 end
 
@@ -1171,12 +1263,16 @@ function geoTriangleOrthocenter(point1, point2, point3) -- altitude, hoogtepunt 
 	local v1, v2, v3 = vecPoint2Vector(point1), vecPoint2Vector(point2), vecPoint2Vector(point3)
 	local n12, n23 = vecCrossProduct(v1, v2), vecCrossProduct(v2, v3)
 	local n123, n231 = vecCrossProduct(n12, v3), vecCrossProduct(n23, v1)
-	local int = vecVector2Point(vecCrossProduct(n123, n231))
-	int.radius = Player.ObjectLocation.altitude:GetValue('m')
-	return int
+	local int1 = vecVector2Point(vecCrossProduct(n123, n231))
+	local int2 = geoAntipodal(int1);
+   	if
+ 		geoDistanceManyPoints(int1, {point1, point2, point3}) >
+   		geoDistanceManyPoints(int2, {point1, point2, point3}) then
+			int1 = int2;
+   	end
+   	int1.radius = Player.ObjectLocation.altitude:GetValue('m')
+	return int1
 end
-
-
 
 function geoProject(x1, y1, t, d)
 	-- http://www.movable-type.co.uk/scripts/latlong.html	
