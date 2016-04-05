@@ -886,7 +886,7 @@ function updateChoices(objInput, data, data_rev)
 end
 
 function updateDynamic()
-	objInputDynamic.Queston = TXT.Input_Dynamic[LANG]
+	objInputDynamic.Question = TXT.Input_Dynamic[LANG]
 	objInputDynamic.Choices = {}
 	table.insert(objInputDynamic.Choices, TXT.Input_Exit[LANG]);
 	for i=1, 26 do
@@ -1403,6 +1403,151 @@ function WGS84toRD(x, y)
 	return {['x'] = x, ['y'] = y }
 end
 
+--
+-- ReReverse Waltmeister stuff
+--
+
+function isCodeOK(AAAAAA, BBBBBB, CCCCCC)
+    variableB3 = tonumber(11 - ((AAAAAA % 1000000 - AAAAAA % 100000) / 100000 * 8 + (AAAAAA % 100000 - AAAAAA % 10000) / 10000 * 6 + (AAAAAA % 10000 - AAAAAA % 1000) / 1000 * 4 + (AAAAAA % 1000 - AAAAAA % 100) / 100 * 2 + (AAAAAA % 100 - AAAAAA % 10) / 10 * 3 + AAAAAA % 10 * 5 + (BBBBBB % 1000000 - BBBBBB % 100000) / 100000 * 9 + (BBBBBB % 100000 - BBBBBB % 10000) / 10000 * 7) % 11)
+    if variableB3 == 10 then
+      variableB3 = 0
+    else
+      if variableB3 == 11 then
+        variableB3 = 5
+      else
+      end
+    end
+    variableC3 = tonumber(11 - ((BBBBBB % 1000 - BBBBBB % 100) / 100 * 8 + (BBBBBB % 100 - BBBBBB % 10) / 10 * 6 + BBBBBB % 10 * 4 + (CCCCCC % 1000000 - CCCCCC % 100000) / 100000 * 2 + (CCCCCC % 100000 - CCCCCC % 10000) / 10000 * 3 + (CCCCCC % 1000 - CCCCCC % 100) / 100 * 5 + (CCCCCC % 100 - CCCCCC % 10) / 10 * 9 + CCCCCC % 10 * 7) % 11)
+    if variableC3 == 10 then
+      variableC3 = 0
+    else
+      if variableC3 == 11 then
+        variableC3 = 5
+      else
+      end
+    end
+    return variableB3 == tonumber((BBBBBB % 10000 - BBBBBB % 1000) / 1000) and variableC3 == tonumber((CCCCCC % 10000 - CCCCCC % 1000) / 1000) 
+end
+
+function code2LatLong(varA, varB, varC)
+  local varLatVorz, varLongVorz, varLongKOMP, varLatKOMP
+  if (varA % 1000 - varA % 100) / 100 == 1 then
+    varLatVorz = 1
+    varLongVorz = 1
+  elseif (varA % 1000 - varA % 100) / 100 == 2 then
+    varLatVorz = -1
+    varLongVorz = 1
+  elseif (varA % 1000 - varA % 100) / 100 == 3 then
+    varLatVorz = 1
+    varLongVorz = -1
+  elseif (varA % 1000 - varA % 100) / 100 == 4 then
+    varLatVorz = -1
+    varLongVorz = -1
+  end
+  if ((varC % 100000 - varC % 10000) / 10000 + (varC % 100 - varC % 10) / 10) % 2 == 0 then
+    varLatKOMP = tonumber(varLatVorz * ((varA % 10000 - varA % 1000) / 1000 * 10 + (varB % 100 - varB % 10) / 10 + (varB % 100000 - varB % 10000) / 10000 * 0.1 + (varC % 1000 - varC % 100) / 100 * 0.01 + (varA % 1000000 - varA % 100000) / 100000 * 0.001 + (varC % 100 - varC % 10) / 10 * 1.0E-4 + varA % 10 * 1.0E-5))
+  elseif ((varC % 100000 - varC % 10000) / 10000 + (varC % 100 - varC % 10) / 10) % 2 ~= 0 then
+    varLatKOMP = tonumber(varLatVorz * ((varB % 1000000 - varB % 100000) / 100000 * 10 + varA % 10 + (varA % 10000 - varA % 1000) / 1000 * 0.1 + (varC % 1000000 - varC % 100000) / 100000 * 0.01 + (varC % 1000 - varC % 100) / 100 * 0.001 + (varC % 100 - varC % 10) / 10 * 1.0E-4 + (varA % 1000000 - varA % 100000) / 100000 * 1.0E-5))
+  end
+  if ((varC % 100000 - varC % 10000) / 10000 + (varC % 100 - varC % 10) / 10) % 2 == 0 then
+    varLongKOMP = tonumber(varLongVorz * ((varA % 100000 - varA % 10000) / 10000 * 100 + (varC % 1000000 - varC % 100000) / 100000 * 10 + varC % 10 + (varB % 1000 - varB % 100) / 100 * 0.1 + (varB % 1000000 - varB % 100000) / 100000 * 0.01 + (varA % 100 - varA % 10) / 10 * 0.001 + (varC % 100000 - varC % 10000) / 10000 * 1.0E-4 + varB % 10 * 1.0E-5))
+  elseif ((varC % 100000 - varC % 10000) / 10000 + (varC % 100 - varC % 10) / 10) % 2 ~= 0 then
+    varLongKOMP = tonumber(varLongVorz * ((varB % 100 - varB % 10) / 10 * 100 + varC % 10 * 10 + (varA % 100 - varA % 10) / 10 + (varA % 100000 - varA % 10000) / 10000 * 0.1 + (varB % 1000 - varB % 100) / 100 * 0.01 + varB % 10 * 0.001 + (varC % 100000 - varC % 10000) / 10000 * 1.0E-4 + (varB % 100000 - varB % 10000) / 10000 * 1.0E-5))
+  end
+  return varLatKOMP, varLongKOMP
+end
+
+function latLong2Code(varLat, varLong)
+  local varLat = tonumber(varLat)
+  local varLong = tonumber(varLong)
+  local varA4, varB3, varC3, tempvarB3, tempvarC3
+  local A = ""
+  local B = ""
+  local C = ""
+  if varLat < 0 and varLong < 0 then
+    varA4 = 4
+    varLat = varLat * -1
+    varLong = varLong * -1
+  elseif varLat < 0 and varLong > 0 then
+    varA4 = 2
+    varLat = varLat * -1
+  elseif varLat > 0 and varLong < 0 then
+    varA4 = 3
+    varLong = varLong * -1
+  elseif varLat >= 0 and varLong >= 0 then
+    varA4 = 1
+  end
+  varLong = varLong + 1.0E-12
+  varLat = varLat + 1.0E-12
+  varLat = tonumber(varLat * 100000 - varLat * 100000 % 1)
+  varLong = tonumber(varLong * 100000 - varLong * 100000 % 1)
+  if 0 == tonumber(((varLong % 100 - varLong % 10) / 10 + (varLat % 100 - varLat % 10) / 10) % 2) then
+    tempvarB3 = tonumber(11 - ((varLat % 1000 - varLat % 100) / 100 * 8 + (varLong % 100000000 - varLong % 10000000) / 10000000 * 6 + (varLat % 10000000 - varLat % 1000000) / 1000000 * 4 + varA4 * 2 + (varLong % 1000 - varLong % 100) / 100 * 3 + varLat % 10 * 5 + (varLong % 10000 - varLong % 1000) / 1000 * 9 + (varLat % 100000 - varLat % 10000) / 10000 * 7) % 11)
+    if tempvarB3 == 10 then
+      varB3 = 0
+    elseif tempvarB3 == 11 then
+      varB3 = 5
+    else
+      varB3 = tempvarB3
+    end
+    tempvarC3 = tonumber(11 - ((varLong % 100000 - varLong % 10000) / 10000 * 8 + (varLat % 1000000 - varLat % 100000) / 100000 * 6 + varLong % 10 * 4 + (varLong % 10000000 - varLong % 1000000) / 1000000 * 2 + (varLong % 100 - varLong % 10) / 10 * 3 + (varLat % 10000 - varLat % 1000) / 1000 * 5 + (varLat % 100 - varLat % 10) / 10 * 9 + (varLong % 1000000 - varLong % 100000) / 100000 * 7) % 11)
+    if tempvarC3 == 10 then
+      varC3 = 0
+    elseif tempvarC3 == 11 then
+      varC3 = 5
+    else
+      varC3 = tempvarC3
+    end
+    A = (varLat % 1000 - varLat % 100) / 100 .. (varLong % 100000000 - varLong % 10000000) / 10000000 .. (varLat % 10000000 - varLat % 1000000) / 1000000 .. varA4 .. (varLong % 1000 - varLong % 100) / 100 .. varLat % 10
+    B = (varLong % 10000 - varLong % 1000) / 1000 .. (varLat % 100000 - varLat % 10000) / 10000 .. varB3 .. (varLong % 100000 - varLong % 10000) / 10000 .. (varLat % 1000000 - varLat % 100000) / 100000 .. varLong % 10
+    C = (varLong % 10000000 - varLong % 1000000) / 1000000 .. (varLong % 100 - varLong % 10) / 10 .. varC3 .. (varLat % 10000 - varLat % 1000) / 1000 .. (varLat % 100 - varLat % 10) / 10 .. (varLong % 1000000 - varLong % 100000) / 100000
+    return A, B, C
+  else
+    if 0 ~= tonumber(((varLong % 100 - varLong % 10) / 10 + (varLat % 100 - varLat % 10) / 10) % 2) then
+      tempvarB3 = tonumber(11 - (varLat % 10 * 8 + (varLong % 100000 - varLong % 10000) / 10000 * 6 + (varLat % 100000 - varLat % 10000) / 10000 * 4 + varA4 * 2 + (varLong % 1000000 - varLong % 100000) / 100000 * 3 + (varLat % 1000000 - varLat % 100000) / 100000 * 5 + (varLat % 10000000 - varLat % 1000000) / 1000000 * 9 + varLong % 10 * 7) % 11)
+      if tempvarB3 == 10 then
+        varB3 = 0
+      elseif tempvarB3 == 11 then
+        varB3 = 5
+      else
+        varB3 = tempvarB3
+      end
+      tempvarC3 = tonumber(11 - ((varLong % 10000 - varLong % 1000) / 1000 * 8 + (varLong % 100000000 - varLong % 10000000) / 10000000 * 6 + (varLong % 1000 - varLong % 100) / 100 * 4 + (varLat % 10000 - varLat % 1000) / 1000 * 2 + (varLong % 100 - varLong % 10) / 10 * 3 + (varLat % 1000 - varLat % 100) / 100 * 5 + (varLat % 100 - varLat % 10) / 10 * 9 + (varLong % 10000000 - varLong % 1000000) / 1000000 * 7) % 11)
+      if tempvarC3 == 10 then
+        varC3 = 0
+      elseif tempvarC3 == 11 then
+        varC3 = 5
+      else
+        varC3 = tempvarC3
+      end
+      A = varLat % 10 .. (varLong % 100000 - varLong % 10000) / 10000 .. (varLat % 100000 - varLat % 10000) / 10000 .. varA4 .. (varLong % 1000000 - varLong % 100000) / 100000 .. (varLat % 1000000 - varLat % 100000) / 100000
+      B = (varLat % 10000000 - varLat % 1000000) / 1000000 .. varLong % 10 .. varB3 .. (varLong % 10000 - varLong % 1000) / 1000 .. (varLong % 100000000 - varLong % 10000000) / 10000000 .. (varLong % 1000 - varLong % 100) / 100
+      C = (varLat % 10000 - varLat % 1000) / 1000 .. (varLong % 100 - varLong % 10) / 10 .. varC3 .. (varLat % 1000 - varLat % 100) / 100 .. (varLat % 100 - varLat % 10) / 10 .. (varLong % 10000000 - varLong % 1000000) / 1000000
+      return A, B, C
+    else
+    end
+  end
+end
+
+function updateReReverse()
+	objInputReReverse.Choices = {}
+	table.insert(objInputReReverse.Choices, 'A)' .. string.format('%06d', REREVERSE.A))
+	table.insert(objInputReReverse.Choices, 'B)' .. string.format('%06d', REREVERSE.B))
+	table.insert(objInputReReverse.Choices, 'C)' .. string.format('%06d', REREVERSE.C))
+
+	if isCodeOK(REREVERSE.A, REREVERSE.B, REREVERSE.C) then
+		table.insert(objInputReReverse.Choices, TXT.Point_Swap[LANG])
+		point = {}
+		point.latitude, point.longitude = code2LatLong(REREVERSE.A, REREVERSE.B, REREVERSE.C)
+		
+		objInputReReverse.Text = 'OK' .. formatCoordinate(point)
+	else
+		objInputReReverse.Text = 'Not OK' .. szKey
+	end
+
+	table.insert(objInputReReverse.Choices, TXT.Input_Exit[LANG])
+	
+end
 
 --
 -- Debug stuff
@@ -1451,3 +1596,13 @@ function debugStr(o)
 end
 
 -- A=01, B=02, C=03, D=04, E=05, F=06, G=07, H=12, I=13, J=46, K=14, L=15, M=16, N=17, O=23, P=24, Q=25, R=26, S=27, T=34, U=35, V=47, W=56, X=57, Y=36, Z=67. De beide getallen zijn onderling verwisselb
+
+-- Eastereggs:
+-- Ceasar:  Debugmode aan
+-- Lattitude: Item L)Speet aan
+-- Longitude: Zone C) Aan
+-- Radius: Waltmeister?
+-- Roman: Arrow size
+
+
+
