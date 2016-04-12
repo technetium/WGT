@@ -1540,15 +1540,40 @@ function updateReReverse()
 		point = {}
 		point.latitude, point.longitude = code2LatLong(REREVERSE.A, REREVERSE.B, REREVERSE.C)
 		
-		objInputReReverse.Text = 'OK' .. formatCoordinate(point)
+		objInputReReverse.Text = formatCoordinate(point)
 	else
-		objInputReReverse.Text = 'Not OK' .. szKey
+		objInputReReverse.Text = TXT.Input_ReReverse[LANG]
 	end
 
 	table.insert(objInputReReverse.Choices, TXT.Input_Exit[LANG])
-	
 end
 
+function swapReReverse()
+	p = {}
+	-- Determine zone information from codes
+	p.latitude, p.longitude = code2LatLong(REREVERSE.A, REREVERSE.B, REREVERSE.C)
+	d = geoDistance2Points(p, Player.ObjectLocation)
+	p.radius = d.distance
+	name = TXT.Wherigo_ReReverse[LANG]
+	description = 'Code:' .. NEW_LINE .. 
+	'A)' .. string.format('%06d', REREVERSE.A) .. NEW_LINE ..
+	'B)' .. string.format('%06d', REREVERSE.B) .. NEW_LINE ..
+	'C)' .. string.format('%06d', REREVERSE.C) .. NEW_LINE
+
+	-- Copy Point to Codes
+	REREVERSE.A, REREVERSE.B, REREVERSE.C = latLong2Code(objPointA.ObjectLocation.latitude, objPointA.ObjectLocation.longitude)
+
+	-- Copy Zone to Point
+	objPointA.ObjectLocation.latitude = objZoneA.OriginalPoint.latitude
+	objPointA.ObjectLocation.longitude = objZoneA.OriginalPoint.longitude
+	objPointA.radius = objZoneA.radius
+	objPointA.Name = objPointA.Name:sub(1,3) .. objZoneA.Name
+	pointDescription(objPointA)
+
+	-- Copy code info to Zone
+	zoneDescription(objZoneA, p, name, description)
+
+end
 --
 -- Debug stuff
 --
