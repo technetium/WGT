@@ -908,6 +908,8 @@ function updateLanguages()
 	table.insert(objInputProperties.Choices, TXT.Input_Properties_Radius[LANG])
 	table.insert(objInputProperties.Choices, TXT.Input_Exit[LANG])
 
+	objInputStaf.Text = TXT.Input_Staf[LANG]
+	
 	objInputSwap.Text = TXT.Input_Swap[LANG]
 	objInputSwap.Choices = {}
 	table.insert(objInputSwap.Choices, TXT.Input_Swap_Point[LANG])

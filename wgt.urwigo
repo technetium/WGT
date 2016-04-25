@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Wherigo:WigoCartridge xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Wherigo="clr-namespace:YourSelf.Urwigo.Wherigo;assembly=Urwigo" xmlns:System="clr-namespace:System;assembly=mscorlib" xmlns:Actions="clr-namespace:YourSelf.Urwigo.Wherigo.Actions;assembly=Urwigo" key="key55">
+<Wherigo:WigoCartridge xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Wherigo="clr-namespace:YourSelf.Urwigo.Wherigo;assembly=Urwigo" xmlns:System="clr-namespace:System;assembly=mscorlib" xmlns:Actions="clr-namespace:YourSelf.Urwigo.Wherigo.Actions;assembly=Urwigo" key="key58">
 <Identifier>
 <System:String>objWGT</System:String>
 </Identifier>
@@ -108,7 +108,7 @@ for testing purposes only
 <System:DateTime>06/10/2010 20:54:23</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>04/12/2016 21:47:06</System:DateTime>
+<System:DateTime>04/24/2016 23:27:00</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -144,7 +144,7 @@ for testing purposes only
 <System:String xsi:nil="true" />
 </ProtectSimulationText>
 <Media>
-<Wherigo:WigoMedia key="key54">
+<Wherigo:WigoMedia key="key57">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -176,7 +176,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key113">
+<Wherigo:WigoMedia key="key122">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -470,7 +470,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key64">
+<Wherigo:WigoMedia key="key67">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -502,7 +502,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key62">
+<Wherigo:WigoMedia key="key65">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -534,7 +534,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key57">
+<Wherigo:WigoMedia key="key60">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -566,7 +566,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key60">
+<Wherigo:WigoMedia key="key63">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -790,7 +790,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key50">
+<Wherigo:WigoMedia key="key53">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -822,7 +822,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key52">
+<Wherigo:WigoMedia key="key55">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -854,7 +854,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key115">
+<Wherigo:WigoMedia key="key124">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -886,7 +886,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key119">
+<Wherigo:WigoMedia key="key128">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -982,7 +982,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key124">
+<Wherigo:WigoMedia key="key133">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1014,7 +1014,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key125">
+<Wherigo:WigoMedia key="key134">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1046,7 +1046,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key126">
+<Wherigo:WigoMedia key="key135">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1078,7 +1078,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key130">
+<Wherigo:WigoMedia key="key139">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1110,7 +1110,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key131">
+<Wherigo:WigoMedia key="key140">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1142,7 +1142,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key137">
+<Wherigo:WigoMedia key="key146">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1174,7 +1174,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key134">
+<Wherigo:WigoMedia key="key143">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1206,7 +1206,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key145">
+<Wherigo:WigoMedia key="key154">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1238,7 +1238,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key136">
+<Wherigo:WigoMedia key="key145">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1270,7 +1270,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key141">
+<Wherigo:WigoMedia key="key150">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1302,7 +1302,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key142">
+<Wherigo:WigoMedia key="key151">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1334,7 +1334,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key146">
+<Wherigo:WigoMedia key="key155">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1398,7 +1398,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key66">
+<Wherigo:WigoMedia key="key69">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1430,7 +1430,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key67">
+<Wherigo:WigoMedia key="key70">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1462,7 +1462,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key70">
+<Wherigo:WigoMedia key="key73">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1526,7 +1526,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key72">
+<Wherigo:WigoMedia key="key75">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1558,7 +1558,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key76">
+<Wherigo:WigoMedia key="key79">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1590,7 +1590,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key150">
+<Wherigo:WigoMedia key="key159">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1622,7 +1622,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key149">
+<Wherigo:WigoMedia key="key158">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1686,7 +1686,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key153">
+<Wherigo:WigoMedia key="key162">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1718,7 +1718,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key154">
+<Wherigo:WigoMedia key="key163">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1750,7 +1750,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key163">
+<Wherigo:WigoMedia key="key172">
 <Identifier>
 <System:String>planetSun</System:String>
 </Identifier>
@@ -1782,7 +1782,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key166">
+<Wherigo:WigoMedia key="key175">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1814,7 +1814,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key170">
+<Wherigo:WigoMedia key="key179">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1846,7 +1846,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key168">
+<Wherigo:WigoMedia key="key177">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1878,7 +1878,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key172">
+<Wherigo:WigoMedia key="key181">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1910,7 +1910,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key164">
+<Wherigo:WigoMedia key="key173">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1942,7 +1942,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key158">
+<Wherigo:WigoMedia key="key167">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1974,7 +1974,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key159">
+<Wherigo:WigoMedia key="key168">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -2038,7 +2038,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key53">
+<Wherigo:WigoMedia key="key56">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -2070,7 +2070,7 @@ for testing purposes only
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key80">
+<Wherigo:WigoMedia key="key83">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -2093,6 +2093,38 @@ for testing purposes only
 </Identifier>
 <Filename>
 <System:String>images\ships\wherigo-rereverseval-millenniumfalcon.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia key="key49">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>input-staff</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>images\landscape\input_staf.jpg</System:String>
 </Filename>
 <Directives>
 <Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
@@ -3517,7 +3549,7 @@ for testing purposes only
 </Wherigo:WigoObjectLocation>
 </ObjectLocation>
 <Commands>
-<Wherigo:WigoCommand key="key108">
+<Wherigo:WigoCommand key="key116">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -3633,7 +3665,7 @@ for testing purposes only
 </Wherigo:WigoObjectLocation>
 </ObjectLocation>
 <Commands>
-<Wherigo:WigoCommand key="key103">
+<Wherigo:WigoCommand key="key110">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -3739,7 +3771,7 @@ for testing purposes only
 </Wherigo:WigoObjectLocation>
 </ObjectLocation>
 <Commands>
-<Wherigo:WigoCommand key="key98">
+<Wherigo:WigoCommand key="key104">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -3845,7 +3877,7 @@ for testing purposes only
 </Wherigo:WigoObjectLocation>
 </ObjectLocation>
 <Commands>
-<Wherigo:WigoCommand key="key93">
+<Wherigo:WigoCommand key="key98">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -3951,7 +3983,7 @@ for testing purposes only
 </Wherigo:WigoObjectLocation>
 </ObjectLocation>
 <Commands>
-<Wherigo:WigoCommand key="key88">
+<Wherigo:WigoCommand key="key92">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -5098,7 +5130,7 @@ end
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key85">
+<Wherigo:WigoCommand key="key88">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -5407,7 +5439,7 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key49">
+<Wherigo:WigoInput key="key52">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -6482,6 +6514,228 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
+<Commands>
+<Wherigo:WigoCommand key="key51">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Name>
+<System:String>Staf</System:String>
+</Name>
+<EmptyTargetListText>
+<System:String>Point_Staf</System:String>
+</EmptyTargetListText>
+<Targets>
+<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
+</Targets>
+<ExecuteAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objPoint</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key40" />
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput key="key50">
+<Identifier>
+<System:String>objInputStaf</System:String>
+</Identifier>
+<Name>
+<System:String>Staf</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<Visible>
+<System:Boolean>True</System:Boolean>
+</Visible>
+<Image>
+<Wherigo:WigoMedia xsi:nil="true" ref="key49" />
+</Image>
+<Icon>
+<Wherigo:WigoMedia xsi:nil="true" />
+</Icon>
+<Text>
+<System:String xsi:nil="true" />
+</Text>
+<InputType>
+<Wherigo:WigoInputType>Number</Wherigo:WigoInputType>
+</InputType>
+<GetInputAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:ObjectReferenceExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoVariable key="key184">
+<Identifier>
+<System:String>nI</System:String>
+</Identifier>
+<Name>
+<System:String>i</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<Type>
+<Wherigo:WigoVariableType>Number</Wherigo:WigoVariableType>
+</Type>
+<Value>
+<System:Double>0</System:Double>
+</Value>
+</Wherigo:WigoVariable>
+</Target>
+</Actions:ObjectReferenceExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:InputAnswerExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+</Actions:InputAnswerExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:SnippetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>if nI == nil then return end
+nFloat = math.sqrt(nI / math.pi)
+
+
+zoneClear();
+local point = nil 
+local dist = math.floor(nFloat * objPoint.radius)
+local bear = (nFloat - math.floor(nFloat)) * 360
+
+point = geoProject(
+  objPoint.ObjectLocation.longitude,
+  objPoint.ObjectLocation.latitude,
+  bear, dist)
+point.radius = objPoint.radius
+
+zoneDescription(
+  objZoneA, point, 
+  TXT.Point_Staf[LANG] .. ': ' .. nI, 
+  formatBearing(bear) .. ', ' .. formatDistance(dist));
+
+</System:String>
+</Value>
+</Actions:SnippetAction>
+</Actions>
+<Actions>
+<Actions:ShowDetailScreenAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoZone xsi:nil="true" ref="key4" />
+</Target>
+</Actions:ObjectExpressionAction>
+</Target>
+</Actions:ShowDetailScreenAction>
+</Actions>
+<Owner>
+<Wherigo:WigoInput xsi:nil="true" ref="key50" />
+</Owner>
+</Actions:EventAction>
+</GetInputAction>
+<ErrorAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:ShowDetailScreenAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key28" />
+</Target>
+</Actions:ObjectExpressionAction>
+</Target>
+</Actions:ShowDetailScreenAction>
+</Actions>
+<Owner>
+<Wherigo:WigoInput xsi:nil="true" ref="key50" />
+</Owner>
+</Actions:EventAction>
+</ErrorAction>
+</Wherigo:WigoInput>
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key51" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
 <ClickAction>
 <Actions:EventAction>
 <Enabled>
@@ -6542,7 +6796,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key49" />
+<Wherigo:WigoInput xsi:nil="true" ref="key52" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -6569,7 +6823,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key49" />
+<Wherigo:WigoInput xsi:nil="true" ref="key52" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -6603,7 +6857,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key49" />
+<Wherigo:WigoInput xsi:nil="true" ref="key52" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -6657,7 +6911,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key51">
+<Wherigo:WigoInput key="key54">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -6671,7 +6925,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key50" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key53" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -6857,7 +7111,7 @@ pointDescription(objPoint)</System:String>
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key51" />
+<Wherigo:WigoInput xsi:nil="true" ref="key54" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -6884,7 +7138,7 @@ pointDescription(objPoint)</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key51" />
+<Wherigo:WigoInput xsi:nil="true" ref="key54" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -6918,7 +7172,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key51" />
+<Wherigo:WigoInput xsi:nil="true" ref="key54" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -6972,7 +7226,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key84">
+<Wherigo:WigoInput key="key87">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -6986,7 +7240,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key52" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key55" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -7047,7 +7301,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCommand key="key79">
+<Wherigo:WigoCommand key="key82">
 <Identifier>
 <System:String>actWherigoReReverse</System:String>
 </Identifier>
@@ -7089,7 +7343,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key81">
+<Wherigo:WigoInput key="key84">
 <Identifier>
 <System:String>objInputReReverse</System:String>
 </Identifier>
@@ -7103,7 +7357,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key53" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key56" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -7204,7 +7458,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter key="key74">
+<Wherigo:WigoCharacter key="key77">
 <Identifier>
 <System:String>objWherigo</System:String>
 </Identifier>
@@ -7218,7 +7472,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key54" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key57" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -7226,7 +7480,7 @@ pointDescription(objPoint)</System:String>
 <ObjectLocation>
 <Wherigo:WigoObjectLocation>
 <Container>
-<Wherigo:WigoPlayer key="key56">
+<Wherigo:WigoPlayer key="key59">
 <Identifier>
 <System:String>Player</System:String>
 </Identifier>
@@ -7238,7 +7492,7 @@ pointDescription(objPoint)</System:String>
 </Wherigo:WigoObjectLocation>
 </ObjectLocation>
 <Commands>
-<Wherigo:WigoCommand key="key58">
+<Wherigo:WigoCommand key="key61">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -7270,7 +7524,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCartridge xsi:nil="true" ref="key55" />
+<Wherigo:WigoCartridge xsi:nil="true" ref="key58" />
 </Target>
 <Property>
 <System:String>Complete</System:String>
@@ -7315,7 +7569,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoPlayer xsi:nil="true" ref="key56" />
+<Wherigo:WigoPlayer xsi:nil="true" ref="key59" />
 </Target>
 <Property>
 <System:String>Name</System:String>
@@ -7338,7 +7592,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoPlayer xsi:nil="true" ref="key56" />
+<Wherigo:WigoPlayer xsi:nil="true" ref="key59" />
 </Target>
 <Property>
 <System:String>CompletionCode</System:String>
@@ -7358,7 +7612,7 @@ pointDescription(objPoint)</System:String>
 </Actions:ConcatenateExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key57" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key60" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -7376,14 +7630,14 @@ pointDescription(objPoint)</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key58" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key61" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key61">
+<Wherigo:WigoCommand key="key64">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -7430,7 +7684,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoEnvironment key="key59">
+<Wherigo:WigoEnvironment key="key62">
 <Identifier>
 <System:String>Env</System:String>
 </Identifier>
@@ -7458,7 +7712,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoEnvironment xsi:nil="true" ref="key59" />
+<Wherigo:WigoEnvironment xsi:nil="true" ref="key62" />
 </Target>
 <Property>
 <System:String>DeviceID</System:String>
@@ -7481,7 +7735,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoEnvironment xsi:nil="true" ref="key59" />
+<Wherigo:WigoEnvironment xsi:nil="true" ref="key62" />
 </Target>
 <Property>
 <System:String>Device</System:String>
@@ -7504,7 +7758,7 @@ pointDescription(objPoint)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoEnvironment xsi:nil="true" ref="key59" />
+<Wherigo:WigoEnvironment xsi:nil="true" ref="key62" />
 </Target>
 <Property>
 <System:String>Version</System:String>
@@ -7526,7 +7780,7 @@ pointDescription(objPoint)</System:String>
 </Actions:ConcatenateExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key60" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key63" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -7544,14 +7798,14 @@ pointDescription(objPoint)</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key61" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key64" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key63">
+<Wherigo:WigoCommand key="key66">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -7603,7 +7857,7 @@ pointDescription(objPoint)</System:String>
 </Actions:SnippetExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key62" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key65" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -7621,14 +7875,14 @@ pointDescription(objPoint)</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key63" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key66" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key65">
+<Wherigo:WigoCommand key="key68">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -7672,7 +7926,7 @@ pointDescription(objPoint)</System:String>
 </Actions:SnippetExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key64" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key67" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -7690,14 +7944,14 @@ pointDescription(objPoint)</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key65" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key68" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key75">
+<Wherigo:WigoCommand key="key78">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -7744,7 +7998,7 @@ table.insert(objInputUnit.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key68">
+<Wherigo:WigoInput key="key71">
 <Identifier>
 <System:String>objInputUnit</System:String>
 </Identifier>
@@ -7758,7 +8012,7 @@ table.insert(objInputUnit.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key66" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key69" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -7810,7 +8064,7 @@ updateChoices(
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key69">
+<Wherigo:WigoInput key="key72">
 <Identifier>
 <System:String>objInputUnitDistance</System:String>
 </Identifier>
@@ -7824,7 +8078,7 @@ updateChoices(
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key67" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key70" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -7892,14 +8146,14 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key68" />
+<Wherigo:WigoInput xsi:nil="true" ref="key71" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key69" />
+<Wherigo:WigoInput xsi:nil="true" ref="key72" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -7909,7 +8163,7 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key69" />
+<Wherigo:WigoInput xsi:nil="true" ref="key72" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -7982,7 +8236,7 @@ updateChoices(
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key71">
+<Wherigo:WigoInput key="key74">
 <Identifier>
 <System:String>objInputUnitCoordinate</System:String>
 </Identifier>
@@ -7996,7 +8250,7 @@ updateChoices(
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key70" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key73" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -8064,14 +8318,14 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key68" />
+<Wherigo:WigoInput xsi:nil="true" ref="key71" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key71" />
+<Wherigo:WigoInput xsi:nil="true" ref="key74" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -8081,7 +8335,7 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key71" />
+<Wherigo:WigoInput xsi:nil="true" ref="key74" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -8154,12 +8408,12 @@ updateChoices(
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key73">
+<Wherigo:WigoInput key="key76">
 <Identifier>
 <System:String>objInputUnitBearing</System:String>
 </Identifier>
 <Name>
-<System:String>unitBearing</System:String>
+<System:String>UnitBearing</System:String>
 </Name>
 <Description>
 <System:String xsi:nil="true" />
@@ -8168,7 +8422,7 @@ updateChoices(
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key72" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key75" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -8240,14 +8494,14 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key68" />
+<Wherigo:WigoInput xsi:nil="true" ref="key71" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key73" />
+<Wherigo:WigoInput xsi:nil="true" ref="key76" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -8257,7 +8511,7 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key73" />
+<Wherigo:WigoInput xsi:nil="true" ref="key76" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -8315,7 +8569,7 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key74" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key77" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
@@ -8329,7 +8583,7 @@ end</System:String>
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key68" />
+<Wherigo:WigoInput xsi:nil="true" ref="key71" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -8349,14 +8603,14 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key74" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key77" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key68" />
+<Wherigo:WigoInput xsi:nil="true" ref="key71" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -8367,14 +8621,14 @@ end</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key75" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key78" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key78">
+<Wherigo:WigoCommand key="key81">
 <Identifier>
 <System:String>actWherigoLanguage</System:String>
 </Identifier>
@@ -8424,7 +8678,7 @@ table.insert(objInputLanguage.Choices, TXT.Input_Exit[LANG])
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key77">
+<Wherigo:WigoInput key="key80">
 <Identifier>
 <System:String>objInputLanguage</System:String>
 </Identifier>
@@ -8438,7 +8692,7 @@ table.insert(objInputLanguage.Choices, TXT.Input_Exit[LANG])
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key76" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key79" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -8507,14 +8761,14 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key74" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key77" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key77" />
+<Wherigo:WigoInput xsi:nil="true" ref="key80" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -8534,14 +8788,14 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key74" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key77" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key77" />
+<Wherigo:WigoInput xsi:nil="true" ref="key80" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -8575,21 +8829,21 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key77" />
+<Wherigo:WigoInput xsi:nil="true" ref="key80" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key78" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key81" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand xsi:nil="true" ref="key79" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key82" />
 </Commands>
 <ClickAction>
 <Actions:EventAction>
@@ -8597,7 +8851,7 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key74" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key77" />
 </Owner>
 </Actions:EventAction>
 </ClickAction>
@@ -8658,7 +8912,7 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoVariable key="key83">
+<Wherigo:WigoVariable key="key86">
 <Identifier>
 <System:String>szKey</System:String>
 </Identifier>
@@ -8720,7 +8974,7 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key82">
+<Wherigo:WigoInput key="key85">
 <Identifier>
 <System:String>objInputReReverseVal</System:String>
 </Identifier>
@@ -8734,7 +8988,7 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key80" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key83" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -8780,7 +9034,8 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:String>updateReReverse()</System:String>
+<System:String>if REREVERSE[szKey] == nil then return end
+updateReReverse()</System:String>
 </Value>
 </Actions:SnippetAction>
 </Actions>
@@ -8795,14 +9050,14 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key81" />
+<Wherigo:WigoInput xsi:nil="true" ref="key84" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key82" />
+<Wherigo:WigoInput xsi:nil="true" ref="key85" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -8822,14 +9077,14 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key81" />
+<Wherigo:WigoInput xsi:nil="true" ref="key84" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key82" />
+<Wherigo:WigoInput xsi:nil="true" ref="key85" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -8868,7 +9123,7 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoVariable xsi:nil="true" ref="key83" />
+<Wherigo:WigoVariable xsi:nil="true" ref="key86" />
 </Target>
 </Actions:ObjectReferenceExpressionAction>
 </RightContent>
@@ -8901,7 +9156,7 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoVariable xsi:nil="true" ref="key83" />
+<Wherigo:WigoVariable xsi:nil="true" ref="key86" />
 </Target>
 </Actions:ObjectReferenceExpressionAction>
 </RightContent>
@@ -8934,7 +9189,7 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoVariable xsi:nil="true" ref="key83" />
+<Wherigo:WigoVariable xsi:nil="true" ref="key86" />
 </Target>
 </Actions:ObjectReferenceExpressionAction>
 </RightContent>
@@ -8957,7 +9212,7 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key81" />
+<Wherigo:WigoInput xsi:nil="true" ref="key84" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -8967,7 +9222,7 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key81" />
+<Wherigo:WigoInput xsi:nil="true" ref="key84" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -8978,7 +9233,7 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key79" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key82" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
@@ -9022,7 +9277,7 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key81" />
+<Wherigo:WigoInput xsi:nil="true" ref="key84" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -9034,7 +9289,7 @@ objInputReReverseVal.Text = string.format(TXT.Input_ReReverseVal[LANG], szKey)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Operator>
-<Actions:CompareExpressionOperator>NotEqual</Actions:CompareExpressionOperator>
+<Actions:CompareExpressionOperator>Equal</Actions:CompareExpressionOperator>
 </Operator>
 <LeftContent>
 <Actions:ObjectReferenceExpressionAction>
@@ -9114,7 +9369,7 @@ end</System:String>
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key84" />
+<Wherigo:WigoInput xsi:nil="true" ref="key87" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -9141,7 +9396,7 @@ end</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key84" />
+<Wherigo:WigoInput xsi:nil="true" ref="key87" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -9180,7 +9435,7 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key84" />
+<Wherigo:WigoInput xsi:nil="true" ref="key87" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -9480,14 +9735,14 @@ end</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key85" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key88" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key86">
+<Wherigo:WigoCommand key="key89">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -9569,14 +9824,14 @@ end</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key86" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key89" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key87">
+<Wherigo:WigoCommand key="key90">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -9715,7 +9970,80 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key87" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key90" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
+<Commands>
+<Wherigo:WigoCommand key="key91">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Name>
+<System:String>Staf</System:String>
+</Name>
+<EmptyTargetListText>
+<System:String>Point_Staf</System:String>
+</EmptyTargetListText>
+<Targets>
+<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
+</Targets>
+<ExecuteAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objPoint</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key21" />
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key50" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key91" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
@@ -9761,14 +10089,14 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key88" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key92" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key89">
+<Wherigo:WigoCommand key="key93">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -9828,360 +10156,6 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Enabled>
 <Target>
 <Wherigo:WigoInput xsi:nil="true" ref="key32" />
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-<Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key89" />
-</Owner>
-</Actions:EventAction>
-</ExecuteAction>
-</Wherigo:WigoCommand>
-</Commands>
-<Commands>
-<Wherigo:WigoCommand key="key90">
-<Identifier>
-<System:String xsi:nil="true" />
-</Identifier>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Name>
-<System:String>Properties</System:String>
-</Name>
-<EmptyTargetListText>
-<System:String>Point_Properties</System:String>
-</EmptyTargetListText>
-<Targets>
-<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
-</Targets>
-<ExecuteAction>
-<Actions:EventAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:SetAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<LeftContent>
-<Actions:SnippetExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>objPoint</System:String>
-</Value>
-</Actions:SnippetExpressionAction>
-</LeftContent>
-<RightContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key19" />
-</Target>
-</Actions:ObjectExpressionAction>
-</RightContent>
-</Actions:SetAction>
-</Actions>
-<Actions>
-<Actions:InputAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<InputContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key36" />
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-<Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key90" />
-</Owner>
-</Actions:EventAction>
-</ExecuteAction>
-</Wherigo:WigoCommand>
-</Commands>
-<Commands>
-<Wherigo:WigoCommand key="key91">
-<Identifier>
-<System:String xsi:nil="true" />
-</Identifier>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Name>
-<System:String>Distances</System:String>
-</Name>
-<EmptyTargetListText>
-<System:String>Point_Distances</System:String>
-</EmptyTargetListText>
-<Targets>
-<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
-</Targets>
-<ExecuteAction>
-<Actions:EventAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:SetAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<LeftContent>
-<Actions:SnippetExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>objPoint</System:String>
-</Value>
-</Actions:SnippetExpressionAction>
-</LeftContent>
-<RightContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key19" />
-</Target>
-</Actions:ObjectExpressionAction>
-</RightContent>
-</Actions:SetAction>
-</Actions>
-<Actions>
-<Actions:MessageBoxAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Text>
-<Actions:SnippetExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>formatDistances(objPoint)</System:String>
-</Value>
-</Actions:SnippetExpressionAction>
-</Text>
-<Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key44" />
-</Media>
-<Button1Text>
-<System:String xsi:nil="true" />
-</Button1Text>
-<Button2Text>
-<System:String xsi:nil="true" />
-</Button2Text>
-<ButtonClickedAction>
-<Actions:DoAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-</Actions:DoAction>
-</ButtonClickedAction>
-</Actions:MessageBoxAction>
-</Actions>
-<Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key91" />
-</Owner>
-</Actions:EventAction>
-</ExecuteAction>
-</Wherigo:WigoCommand>
-</Commands>
-<Commands>
-<Wherigo:WigoCommand key="key92">
-<Identifier>
-<System:String xsi:nil="true" />
-</Identifier>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Name>
-<System:String>Discworld</System:String>
-</Name>
-<EmptyTargetListText>
-<System:String>Point_Discworld</System:String>
-</EmptyTargetListText>
-<Targets>
-<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
-</Targets>
-<ExecuteAction>
-<Actions:EventAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:SetAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<LeftContent>
-<Actions:SnippetExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>objPoint</System:String>
-</Value>
-</Actions:SnippetExpressionAction>
-</LeftContent>
-<RightContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key19" />
-</Target>
-</Actions:ObjectExpressionAction>
-</RightContent>
-</Actions:SetAction>
-</Actions>
-<Actions>
-<Actions:SetAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<LeftContent>
-<Actions:SnippetExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>objPointPrev</System:String>
-</Value>
-</Actions:SnippetExpressionAction>
-</LeftContent>
-<RightContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key21" />
-</Target>
-</Actions:ObjectExpressionAction>
-</RightContent>
-</Actions:SetAction>
-</Actions>
-<Actions>
-<Actions:SetAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<LeftContent>
-<Actions:ObjectPropertyReferenceExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key47" />
-</Target>
-<Property>
-<System:String>Text</System:String>
-</Property>
-</Actions:ObjectPropertyReferenceExpressionAction>
-</LeftContent>
-<RightContent>
-<Actions:SnippetExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>TXT.Input_Discworld[LANG]</System:String>
-</Value>
-</Actions:SnippetExpressionAction>
-</RightContent>
-</Actions:SetAction>
-</Actions>
-<Actions>
-<Actions:SnippetAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>objInputDiscworld.Text = TXT.Input_Discworld[LANG]
-objInputDiscworld.Choices = {}
-table.insert(objInputDiscworld.Choices, TXT.Input_Discworld_Hubward[LANG])
-table.insert(objInputDiscworld.Choices, TXT.Input_Discworld_Turnwise[LANG])
-table.insert(objInputDiscworld.Choices, TXT.Input_Discworld_Rimward[LANG])
-table.insert(objInputDiscworld.Choices, TXT.Input_Discworld_Widdershins[LANG])
-table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
-</Value>
-</Actions:SnippetAction>
-</Actions>
-<Actions>
-<Actions:InputAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<InputContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key47" />
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-<Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key92" />
-</Owner>
-</Actions:EventAction>
-</ExecuteAction>
-</Wherigo:WigoCommand>
-</Commands>
-<ClickAction>
-<Actions:EventAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Owner>
-<Wherigo:WigoItem xsi:nil="true" ref="key19" />
-</Owner>
-</Actions:EventAction>
-</ClickAction>
-<Locked>
-<System:Boolean>False</System:Boolean>
-</Locked>
-<Opened>
-<System:Boolean>False</System:Boolean>
-</Opened>
-</Wherigo:WigoItem>
-</Target>
-</Actions:ObjectExpressionAction>
-</RightContent>
-</Actions:SetAction>
-</Actions>
-<Actions>
-<Actions:InputAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<InputContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key23" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -10203,79 +10177,6 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Name>
-<System:String>Swap</System:String>
-</Name>
-<EmptyTargetListText>
-<System:String>Point_Swap</System:String>
-</EmptyTargetListText>
-<Targets>
-<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
-</Targets>
-<ExecuteAction>
-<Actions:EventAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:SetAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<LeftContent>
-<Actions:SnippetExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>objPoint</System:String>
-</Value>
-</Actions:SnippetExpressionAction>
-</LeftContent>
-<RightContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key17" />
-</Target>
-</Actions:ObjectExpressionAction>
-</RightContent>
-</Actions:SetAction>
-</Actions>
-<Actions>
-<Actions:InputAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<InputContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key32" />
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-<Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key94" />
-</Owner>
-</Actions:EventAction>
-</ExecuteAction>
-</Wherigo:WigoCommand>
-</Commands>
-<Commands>
-<Wherigo:WigoCommand key="key95">
-<Identifier>
-<System:String xsi:nil="true" />
-</Identifier>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Name>
 <System:String>Properties</System:String>
 </Name>
 <EmptyTargetListText>
@@ -10310,7 +10211,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key17" />
+<Wherigo:WigoItem xsi:nil="true" ref="key19" />
 </Target>
 </Actions:ObjectExpressionAction>
 </RightContent>
@@ -10334,14 +10235,14 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key95" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key94" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key96">
+<Wherigo:WigoCommand key="key95">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -10383,7 +10284,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key17" />
+<Wherigo:WigoItem xsi:nil="true" ref="key19" />
 </Target>
 </Actions:ObjectExpressionAction>
 </RightContent>
@@ -10423,14 +10324,14 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key96" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key95" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key97">
+<Wherigo:WigoCommand key="key96">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -10472,7 +10373,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key17" />
+<Wherigo:WigoItem xsi:nil="true" ref="key19" />
 </Target>
 </Actions:ObjectExpressionAction>
 </RightContent>
@@ -10499,7 +10400,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key19" />
+<Wherigo:WigoItem xsi:nil="true" ref="key21" />
 </Target>
 </Actions:ObjectExpressionAction>
 </RightContent>
@@ -10569,6 +10470,79 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key96" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
+<Commands>
+<Wherigo:WigoCommand key="key97">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Name>
+<System:String>Staf</System:String>
+</Name>
+<EmptyTargetListText>
+<System:String>Point_Staf</System:String>
+</EmptyTargetListText>
+<Targets>
+<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
+</Targets>
+<ExecuteAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objPoint</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key19" />
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key50" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Owner>
 <Wherigo:WigoCommand xsi:nil="true" ref="key97" />
 </Owner>
 </Actions:EventAction>
@@ -10581,7 +10555,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoItem xsi:nil="true" ref="key17" />
+<Wherigo:WigoItem xsi:nil="true" ref="key19" />
 </Owner>
 </Actions:EventAction>
 </ClickAction>
@@ -10664,7 +10638,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key15" />
+<Wherigo:WigoItem xsi:nil="true" ref="key17" />
 </Target>
 </Actions:ObjectExpressionAction>
 </RightContent>
@@ -10737,7 +10711,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key15" />
+<Wherigo:WigoItem xsi:nil="true" ref="key17" />
 </Target>
 </Actions:ObjectExpressionAction>
 </RightContent>
@@ -10810,7 +10784,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key15" />
+<Wherigo:WigoItem xsi:nil="true" ref="key17" />
 </Target>
 </Actions:ObjectExpressionAction>
 </RightContent>
@@ -10899,6 +10873,506 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key17" />
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objPointPrev</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key19" />
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:ObjectPropertyReferenceExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key47" />
+</Target>
+<Property>
+<System:String>Text</System:String>
+</Property>
+</Actions:ObjectPropertyReferenceExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>TXT.Input_Discworld[LANG]</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:SnippetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objInputDiscworld.Text = TXT.Input_Discworld[LANG]
+objInputDiscworld.Choices = {}
+table.insert(objInputDiscworld.Choices, TXT.Input_Discworld_Hubward[LANG])
+table.insert(objInputDiscworld.Choices, TXT.Input_Discworld_Turnwise[LANG])
+table.insert(objInputDiscworld.Choices, TXT.Input_Discworld_Rimward[LANG])
+table.insert(objInputDiscworld.Choices, TXT.Input_Discworld_Widdershins[LANG])
+table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
+</Value>
+</Actions:SnippetAction>
+</Actions>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key47" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key102" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
+<Commands>
+<Wherigo:WigoCommand key="key103">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Name>
+<System:String>Staf</System:String>
+</Name>
+<EmptyTargetListText>
+<System:String>Point_Staf</System:String>
+</EmptyTargetListText>
+<Targets>
+<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
+</Targets>
+<ExecuteAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objPoint</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key17" />
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key50" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key103" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
+<ClickAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Owner>
+<Wherigo:WigoItem xsi:nil="true" ref="key17" />
+</Owner>
+</Actions:EventAction>
+</ClickAction>
+<Locked>
+<System:Boolean>False</System:Boolean>
+</Locked>
+<Opened>
+<System:Boolean>False</System:Boolean>
+</Opened>
+</Wherigo:WigoItem>
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key23" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key104" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
+<Commands>
+<Wherigo:WigoCommand key="key105">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Name>
+<System:String>Swap</System:String>
+</Name>
+<EmptyTargetListText>
+<System:String>Point_Swap</System:String>
+</EmptyTargetListText>
+<Targets>
+<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
+</Targets>
+<ExecuteAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objPoint</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key15" />
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key32" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key105" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
+<Commands>
+<Wherigo:WigoCommand key="key106">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Name>
+<System:String>Properties</System:String>
+</Name>
+<EmptyTargetListText>
+<System:String>Point_Properties</System:String>
+</EmptyTargetListText>
+<Targets>
+<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
+</Targets>
+<ExecuteAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objPoint</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key15" />
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key36" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key106" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
+<Commands>
+<Wherigo:WigoCommand key="key107">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Name>
+<System:String>Distances</System:String>
+</Name>
+<EmptyTargetListText>
+<System:String>Point_Distances</System:String>
+</EmptyTargetListText>
+<Targets>
+<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
+</Targets>
+<ExecuteAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objPoint</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key15" />
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:MessageBoxAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Text>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>formatDistances(objPoint)</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" ref="key44" />
+</Media>
+<Button1Text>
+<System:String xsi:nil="true" />
+</Button1Text>
+<Button2Text>
+<System:String xsi:nil="true" />
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+</Actions:DoAction>
+</ButtonClickedAction>
+</Actions:MessageBoxAction>
+</Actions>
+<Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key107" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
+<Commands>
+<Wherigo:WigoCommand key="key108">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Name>
+<System:String>Discworld</System:String>
+</Name>
+<EmptyTargetListText>
+<System:String>Point_Discworld</System:String>
+</EmptyTargetListText>
+<Targets>
+<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
+</Targets>
+<ExecuteAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objPoint</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
 <Wherigo:WigoItem xsi:nil="true" ref="key15" />
 </Target>
 </Actions:ObjectExpressionAction>
@@ -10996,7 +11470,80 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key102" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key108" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
+<Commands>
+<Wherigo:WigoCommand key="key109">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Name>
+<System:String>Staf</System:String>
+</Name>
+<EmptyTargetListText>
+<System:String>Point_Staf</System:String>
+</EmptyTargetListText>
+<Targets>
+<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
+</Targets>
+<ExecuteAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objPoint</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key15" />
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key50" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key109" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
@@ -11042,14 +11589,14 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key103" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key110" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key104">
+<Wherigo:WigoCommand key="key111">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -11115,14 +11662,14 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key104" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key111" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key105">
+<Wherigo:WigoCommand key="key112">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -11188,14 +11735,14 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key105" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key112" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key106">
+<Wherigo:WigoCommand key="key113">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -11277,14 +11824,14 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key106" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key113" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key107">
+<Wherigo:WigoCommand key="key114">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -11423,7 +11970,80 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key107" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key114" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
+<Commands>
+<Wherigo:WigoCommand key="key115">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Name>
+<System:String>Staf</System:String>
+</Name>
+<EmptyTargetListText>
+<System:String>Point_Staf</System:String>
+</EmptyTargetListText>
+<Targets>
+<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
+</Targets>
+<ExecuteAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objPoint</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key13" />
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key50" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key115" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
@@ -11523,14 +12143,14 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key108" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key116" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key109">
+<Wherigo:WigoCommand key="key117">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -11596,14 +12216,14 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key109" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key117" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key110">
+<Wherigo:WigoCommand key="key118">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -11669,14 +12289,14 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key110" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key118" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key111">
+<Wherigo:WigoCommand key="key119">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -11758,14 +12378,14 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key111" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key119" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key112">
+<Wherigo:WigoCommand key="key120">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -11968,7 +12588,80 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key112" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key120" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
+<Commands>
+<Wherigo:WigoCommand key="key121">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Name>
+<System:String>Staf</System:String>
+</Name>
+<EmptyTargetListText>
+<System:String>Point_Staf</System:String>
+</EmptyTargetListText>
+<Targets>
+<Wherigo:WigoCommandTargets>None</Wherigo:WigoCommandTargets>
+</Targets>
+<ExecuteAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:SnippetExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>objPoint</System:String>
+</Value>
+</Actions:SnippetExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key11" />
+</Target>
+</Actions:ObjectExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key50" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key121" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
@@ -12014,7 +12707,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <Wherigo:WigoItem xsi:nil="true" ref="key40" />
 </Items>
 <Characters>
-<Wherigo:WigoCharacter key="key116">
+<Wherigo:WigoCharacter key="key125">
 <Identifier>
 <System:String>objGeometric</System:String>
 </Identifier>
@@ -12028,7 +12721,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key113" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key122" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -12036,7 +12729,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 <ObjectLocation>
 <Wherigo:WigoObjectLocation>
 <Container>
-<Wherigo:WigoPlayer xsi:nil="true" ref="key56" />
+<Wherigo:WigoPlayer xsi:nil="true" ref="key59" />
 </Container>
 <Location>
 <Wherigo:WigoCoordinate xsi:nil="true" />
@@ -12044,7 +12737,7 @@ table.insert(objInputDiscworld.Choices, TXT.Input_Exit[LANG])</System:String>
 </Wherigo:WigoObjectLocation>
 </ObjectLocation>
 <Commands>
-<Wherigo:WigoCommand key="key114">
+<Wherigo:WigoCommand key="key123">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -12121,14 +12814,14 @@ local a = geoAreaTriangle(objPointA.ObjectLocation, objPointB.ObjectLocation, ob
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key114" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key123" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key118">
+<Wherigo:WigoCommand key="key127">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -12177,7 +12870,7 @@ table.insert(objInputTriangle.Choices, TXT.Input_Exit[LANG])
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key117">
+<Wherigo:WigoInput key="key126">
 <Identifier>
 <System:String>objInputTriangle</System:String>
 </Identifier>
@@ -12191,7 +12884,7 @@ table.insert(objInputTriangle.Choices, TXT.Input_Exit[LANG])
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key115" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key124" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -12576,7 +13269,7 @@ zoneDescription(objZoneA, point, szStr .. ' ABC', triangle)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key116" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key125" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
@@ -12590,7 +13283,7 @@ zoneDescription(objZoneA, point, szStr .. ' ABC', triangle)
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key117" />
+<Wherigo:WigoInput xsi:nil="true" ref="key126" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -12610,14 +13303,14 @@ zoneDescription(objZoneA, point, szStr .. ' ABC', triangle)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key116" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key125" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key117" />
+<Wherigo:WigoInput xsi:nil="true" ref="key126" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -12628,14 +13321,14 @@ zoneDescription(objZoneA, point, szStr .. ' ABC', triangle)
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key118" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key127" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key121">
+<Wherigo:WigoCommand key="key130">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -12683,7 +13376,7 @@ zoneDescription(objZoneA, point, szStr .. ' ABC', triangle)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key120">
+<Wherigo:WigoInput key="key129">
 <Identifier>
 <System:String>objInputIntersections</System:String>
 </Identifier>
@@ -12697,7 +13390,7 @@ zoneDescription(objZoneA, point, szStr .. ' ABC', triangle)
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key119" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key128" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -13134,7 +13827,7 @@ zoneDescription(objZoneB, r[2], TXT.Geometric_Intersections_Intersection[LANG] .
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key116" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key125" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
@@ -13148,7 +13841,7 @@ zoneDescription(objZoneB, r[2], TXT.Geometric_Intersections_Intersection[LANG] .
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key120" />
+<Wherigo:WigoInput xsi:nil="true" ref="key129" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -13168,14 +13861,14 @@ zoneDescription(objZoneB, r[2], TXT.Geometric_Intersections_Intersection[LANG] .
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key116" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key125" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key120" />
+<Wherigo:WigoInput xsi:nil="true" ref="key129" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -13186,14 +13879,14 @@ zoneDescription(objZoneB, r[2], TXT.Geometric_Intersections_Intersection[LANG] .
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key121" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key130" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key122">
+<Wherigo:WigoCommand key="key131">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -13369,14 +14062,14 @@ end
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key122" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key131" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key123">
+<Wherigo:WigoCommand key="key132">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -13470,7 +14163,7 @@ zoneDescription(objZoneA, r, TXT.Geometric_Extend[LANG], msg)
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key123" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key132" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
@@ -13482,7 +14175,7 @@ zoneDescription(objZoneA, r, TXT.Geometric_Extend[LANG], msg)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key116" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key125" />
 </Owner>
 </Actions:EventAction>
 </ClickAction>
@@ -13492,7 +14185,7 @@ zoneDescription(objZoneA, r, TXT.Geometric_Extend[LANG], msg)
 </Wherigo:WigoCharacter>
 </Characters>
 <Characters>
-<Wherigo:WigoCharacter key="key128">
+<Wherigo:WigoCharacter key="key137">
 <Identifier>
 <System:String>objConvertor</System:String>
 </Identifier>
@@ -13506,7 +14199,7 @@ zoneDescription(objZoneA, r, TXT.Geometric_Extend[LANG], msg)
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key124" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key133" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -13514,7 +14207,7 @@ zoneDescription(objZoneA, r, TXT.Geometric_Extend[LANG], msg)
 <ObjectLocation>
 <Wherigo:WigoObjectLocation>
 <Container>
-<Wherigo:WigoPlayer xsi:nil="true" ref="key56" />
+<Wherigo:WigoPlayer xsi:nil="true" ref="key59" />
 </Container>
 <Location>
 <Wherigo:WigoCoordinate xsi:nil="true" />
@@ -13522,7 +14215,7 @@ zoneDescription(objZoneA, r, TXT.Geometric_Extend[LANG], msg)
 </Wherigo:WigoObjectLocation>
 </ObjectLocation>
 <Commands>
-<Wherigo:WigoCommand key="key129">
+<Wherigo:WigoCommand key="key138">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -13554,7 +14247,7 @@ zoneDescription(objZoneA, r, TXT.Geometric_Extend[LANG], msg)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key127">
+<Wherigo:WigoInput key="key136">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -13568,7 +14261,7 @@ zoneDescription(objZoneA, r, TXT.Geometric_Extend[LANG], msg)
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key125" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key134" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -13705,7 +14398,7 @@ end</System:String>
 </Actions:SnippetExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key126" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key135" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -13723,7 +14416,7 @@ end</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key127" />
+<Wherigo:WigoInput xsi:nil="true" ref="key136" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -13743,14 +14436,14 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key128" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key137" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key127" />
+<Wherigo:WigoInput xsi:nil="true" ref="key136" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -13784,21 +14477,21 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key127" />
+<Wherigo:WigoInput xsi:nil="true" ref="key136" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key129" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key138" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key133">
+<Wherigo:WigoCommand key="key142">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -13830,7 +14523,7 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key132">
+<Wherigo:WigoInput key="key141">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -13844,7 +14537,7 @@ end</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key130" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key139" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -13946,7 +14639,7 @@ end
 </Actions:SnippetExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key131" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key140" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -13964,7 +14657,7 @@ end
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key132" />
+<Wherigo:WigoInput xsi:nil="true" ref="key141" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -13984,14 +14677,14 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key128" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key137" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key132" />
+<Wherigo:WigoInput xsi:nil="true" ref="key141" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -14025,21 +14718,21 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key132" />
+<Wherigo:WigoInput xsi:nil="true" ref="key141" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key133" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key142" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key140">
+<Wherigo:WigoCommand key="key149">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -14071,7 +14764,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key139">
+<Wherigo:WigoInput key="key148">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -14085,7 +14778,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key134" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key143" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -14122,7 +14815,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoVariable key="key135">
+<Wherigo:WigoVariable key="key144">
 <Identifier>
 <System:String>nBase</System:String>
 </Identifier>
@@ -14239,7 +14932,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoVariable xsi:nil="true" ref="key135" />
+<Wherigo:WigoVariable xsi:nil="true" ref="key144" />
 </Target>
 </Actions:ObjectReferenceExpressionAction>
 </LeftContent>
@@ -14286,7 +14979,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key138">
+<Wherigo:WigoInput key="key147">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -14300,7 +14993,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key136" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key145" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -14386,7 +15079,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoVariable xsi:nil="true" ref="key135" />
+<Wherigo:WigoVariable xsi:nil="true" ref="key144" />
 </Target>
 </Actions:ObjectReferenceExpressionAction>
 </Actions>
@@ -14413,7 +15106,7 @@ end
 </Actions:ConcatenateExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key137" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key146" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -14431,7 +15124,7 @@ end
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key138" />
+<Wherigo:WigoInput xsi:nil="true" ref="key147" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -14451,14 +15144,14 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key128" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key137" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key138" />
+<Wherigo:WigoInput xsi:nil="true" ref="key147" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -14492,14 +15185,14 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key138" />
+<Wherigo:WigoInput xsi:nil="true" ref="key147" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key139" />
+<Wherigo:WigoInput xsi:nil="true" ref="key148" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -14519,7 +15212,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoVariable xsi:nil="true" ref="key135" />
+<Wherigo:WigoVariable xsi:nil="true" ref="key144" />
 </Target>
 </Actions:ObjectReferenceExpressionAction>
 </LeftContent>
@@ -14546,14 +15239,14 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key138" />
+<Wherigo:WigoInput xsi:nil="true" ref="key147" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key139" />
+<Wherigo:WigoInput xsi:nil="true" ref="key148" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -14587,21 +15280,21 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key139" />
+<Wherigo:WigoInput xsi:nil="true" ref="key148" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key140" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key149" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key144">
+<Wherigo:WigoCommand key="key153">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -14633,7 +15326,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key143">
+<Wherigo:WigoInput key="key152">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -14647,7 +15340,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key141" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key150" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -14792,7 +15485,7 @@ encodeMorse(szStr)</System:String>
 </Actions:ObjectReferenceExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key142" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key151" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -14810,7 +15503,7 @@ encodeMorse(szStr)</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key143" />
+<Wherigo:WigoInput xsi:nil="true" ref="key152" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -14830,14 +15523,14 @@ encodeMorse(szStr)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key128" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key137" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key143" />
+<Wherigo:WigoInput xsi:nil="true" ref="key152" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -14871,21 +15564,21 @@ encodeMorse(szStr)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key143" />
+<Wherigo:WigoInput xsi:nil="true" ref="key152" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key144" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key153" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key148">
+<Wherigo:WigoCommand key="key157">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -14917,7 +15610,7 @@ encodeMorse(szStr)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key147">
+<Wherigo:WigoInput key="key156">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -14931,7 +15624,7 @@ encodeMorse(szStr)</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key145" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key154" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -15134,7 +15827,7 @@ encodeRoman(szStr)</System:String>
 </Actions:ObjectReferenceExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key146" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key155" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -15152,7 +15845,7 @@ encodeRoman(szStr)</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key147" />
+<Wherigo:WigoInput xsi:nil="true" ref="key156" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -15172,14 +15865,14 @@ encodeRoman(szStr)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key128" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key137" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key147" />
+<Wherigo:WigoInput xsi:nil="true" ref="key156" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -15213,21 +15906,21 @@ encodeRoman(szStr)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key147" />
+<Wherigo:WigoInput xsi:nil="true" ref="key156" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key148" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key157" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key152">
+<Wherigo:WigoCommand key="key161">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -15259,7 +15952,7 @@ encodeRoman(szStr)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key151">
+<Wherigo:WigoInput key="key160">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -15273,7 +15966,7 @@ encodeRoman(szStr)</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key149" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key158" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -15352,7 +16045,7 @@ szStr = szStr .. NEW_LINE  .. NEW_LINE .. formatAscii(ascii, szStr == s)
 </Actions:SnippetExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key150" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key159" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -15370,7 +16063,7 @@ szStr = szStr .. NEW_LINE  .. NEW_LINE .. formatAscii(ascii, szStr == s)
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key151" />
+<Wherigo:WigoInput xsi:nil="true" ref="key160" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -15380,7 +16073,7 @@ szStr = szStr .. NEW_LINE  .. NEW_LINE .. formatAscii(ascii, szStr == s)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key151" />
+<Wherigo:WigoInput xsi:nil="true" ref="key160" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -15414,21 +16107,21 @@ szStr = szStr .. NEW_LINE  .. NEW_LINE .. formatAscii(ascii, szStr == s)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key151" />
+<Wherigo:WigoInput xsi:nil="true" ref="key160" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key152" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key161" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key157">
+<Wherigo:WigoCommand key="key166">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -15460,7 +16153,7 @@ szStr = szStr .. NEW_LINE  .. NEW_LINE .. formatAscii(ascii, szStr == s)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key156">
+<Wherigo:WigoInput key="key165">
 <Identifier>
 <System:String>objInputVigenere</System:String>
 </Identifier>
@@ -15474,7 +16167,7 @@ szStr = szStr .. NEW_LINE  .. NEW_LINE .. formatAscii(ascii, szStr == s)
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key153" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key162" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -15535,7 +16228,7 @@ szStr = szStr .. NEW_LINE  .. NEW_LINE .. formatAscii(ascii, szStr == s)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key155">
+<Wherigo:WigoInput key="key164">
 <Identifier>
 <System:String>objInputVigenereKey</System:String>
 </Identifier>
@@ -15549,7 +16242,7 @@ szStr = szStr .. NEW_LINE  .. NEW_LINE .. formatAscii(ascii, szStr == s)
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key154" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key163" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -15576,7 +16269,7 @@ szStr = szStr .. NEW_LINE  .. NEW_LINE .. formatAscii(ascii, szStr == s)
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoVariable xsi:nil="true" ref="key83" />
+<Wherigo:WigoVariable xsi:nil="true" ref="key86" />
 </Target>
 </Actions:ObjectReferenceExpressionAction>
 </LeftContent>
@@ -15643,7 +16336,7 @@ szStr = szStr
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key155" />
+<Wherigo:WigoInput xsi:nil="true" ref="key164" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -15653,7 +16346,7 @@ szStr = szStr
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key155" />
+<Wherigo:WigoInput xsi:nil="true" ref="key164" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -15687,14 +16380,14 @@ szStr = szStr
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key155" />
+<Wherigo:WigoInput xsi:nil="true" ref="key164" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key156" />
+<Wherigo:WigoInput xsi:nil="true" ref="key165" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -15704,7 +16397,7 @@ szStr = szStr
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key156" />
+<Wherigo:WigoInput xsi:nil="true" ref="key165" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -15738,21 +16431,21 @@ szStr = szStr
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key156" />
+<Wherigo:WigoInput xsi:nil="true" ref="key165" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key157" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key166" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key162">
+<Wherigo:WigoCommand key="key171">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -15784,7 +16477,7 @@ szStr = szStr
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key160">
+<Wherigo:WigoInput key="key169">
 <Identifier>
 <System:String>objInputDynamic</System:String>
 </Identifier>
@@ -15798,7 +16491,7 @@ szStr = szStr
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key158" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key167" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -15864,7 +16557,7 @@ iN= string.byte(szStr, 1) - 64;
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key161">
+<Wherigo:WigoInput key="key170">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -15878,7 +16571,7 @@ iN= string.byte(szStr, 1) - 64;
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key159" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key168" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -15945,14 +16638,14 @@ updateDynamic();</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key160" />
+<Wherigo:WigoInput xsi:nil="true" ref="key169" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key161" />
+<Wherigo:WigoInput xsi:nil="true" ref="key170" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -15972,14 +16665,14 @@ updateDynamic();</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key128" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key137" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key161" />
+<Wherigo:WigoInput xsi:nil="true" ref="key170" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -16013,14 +16706,14 @@ updateDynamic();</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key161" />
+<Wherigo:WigoInput xsi:nil="true" ref="key170" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key160" />
+<Wherigo:WigoInput xsi:nil="true" ref="key169" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -16040,14 +16733,14 @@ updateDynamic();</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key128" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key137" />
 </Target>
 </Actions:ObjectExpressionAction>
 </Target>
 </Actions:ShowDetailScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key160" />
+<Wherigo:WigoInput xsi:nil="true" ref="key169" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -16091,14 +16784,14 @@ updateDynamic();</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key160" />
+<Wherigo:WigoInput xsi:nil="true" ref="key169" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key162" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key171" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
@@ -16110,7 +16803,7 @@ updateDynamic();</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key128" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key137" />
 </Owner>
 </Actions:EventAction>
 </ClickAction>
@@ -16120,10 +16813,10 @@ updateDynamic();</System:String>
 </Wherigo:WigoCharacter>
 </Characters>
 <Characters>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key74" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key77" />
 </Characters>
 <Characters>
-<Wherigo:WigoCharacter key="key174">
+<Wherigo:WigoCharacter key="key183">
 <Identifier>
 <System:String>objQuantities</System:String>
 </Identifier>
@@ -16137,7 +16830,7 @@ updateDynamic();</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key163" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key172" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -16145,7 +16838,7 @@ updateDynamic();</System:String>
 <ObjectLocation>
 <Wherigo:WigoObjectLocation>
 <Container>
-<Wherigo:WigoPlayer xsi:nil="true" ref="key56" />
+<Wherigo:WigoPlayer xsi:nil="true" ref="key59" />
 </Container>
 <Location>
 <Wherigo:WigoCoordinate xsi:nil="true" />
@@ -16153,7 +16846,7 @@ updateDynamic();</System:String>
 </Wherigo:WigoObjectLocation>
 </ObjectLocation>
 <Commands>
-<Wherigo:WigoCommand key="key167">
+<Wherigo:WigoCommand key="key176">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -16185,7 +16878,7 @@ updateDynamic();</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key165">
+<Wherigo:WigoInput key="key174">
 <Identifier>
 <System:String>inputUnitValue</System:String>
 </Identifier>
@@ -16199,7 +16892,7 @@ updateDynamic();</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key163" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key172" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -16289,7 +16982,7 @@ end
 </Actions:SnippetExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key164" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key173" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -16307,7 +17000,7 @@ end
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -16317,7 +17010,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -16334,7 +17027,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoMedia xsi:nil="true" ref="key166" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key175" />
 </Target>
 </Actions:ObjectExpressionAction>
 </RightContent>
@@ -16351,7 +17044,7 @@ end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Target>
 <Property>
 <System:String>Text</System:String>
@@ -16395,21 +17088,21 @@ szKey = TXT.Quantities_Length[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key167" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key176" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key169">
+<Wherigo:WigoCommand key="key178">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -16441,7 +17134,7 @@ szKey = TXT.Quantities_Length[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Target>
 <Property>
 <System:String>Image</System:String>
@@ -16454,7 +17147,7 @@ szKey = TXT.Quantities_Length[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoMedia xsi:nil="true" ref="key168" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key177" />
 </Target>
 </Actions:ObjectExpressionAction>
 </RightContent>
@@ -16471,7 +17164,7 @@ szKey = TXT.Quantities_Length[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Target>
 <Property>
 <System:String>Text</System:String>
@@ -16516,21 +17209,21 @@ szKey = TXT.Quantities_Angle[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key169" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key178" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key171">
+<Wherigo:WigoCommand key="key180">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -16562,7 +17255,7 @@ szKey = TXT.Quantities_Angle[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Target>
 <Property>
 <System:String>Image</System:String>
@@ -16575,7 +17268,7 @@ szKey = TXT.Quantities_Angle[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoMedia xsi:nil="true" ref="key170" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key179" />
 </Target>
 </Actions:ObjectExpressionAction>
 </RightContent>
@@ -16592,7 +17285,7 @@ szKey = TXT.Quantities_Angle[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Target>
 <Property>
 <System:String>Text</System:String>
@@ -16636,21 +17329,21 @@ szKey = TXT.Quantities_Temperature[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key171" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key180" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key173">
+<Wherigo:WigoCommand key="key182">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -16682,7 +17375,7 @@ szKey = TXT.Quantities_Temperature[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Target>
 <Property>
 <System:String>Image</System:String>
@@ -16695,7 +17388,7 @@ szKey = TXT.Quantities_Temperature[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoMedia xsi:nil="true" ref="key172" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key181" />
 </Target>
 </Actions:ObjectExpressionAction>
 </RightContent>
@@ -16712,7 +17405,7 @@ szKey = TXT.Quantities_Temperature[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Target>
 <Property>
 <System:String>Text</System:String>
@@ -16756,14 +17449,14 @@ szKey = TXT.Quantities_Pressure[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
 </Actions:InputAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key173" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key182" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
@@ -16775,7 +17468,7 @@ szKey = TXT.Quantities_Pressure[LANG];
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoCharacter xsi:nil="true" ref="key174" />
+<Wherigo:WigoCharacter xsi:nil="true" ref="key183" />
 </Owner>
 </Actions:EventAction>
 </ClickAction>
@@ -16788,26 +17481,10 @@ szKey = TXT.Quantities_Pressure[LANG];
 <Wherigo:WigoVariable xsi:nil="true" ref="key27" />
 </Variables>
 <Variables>
-<Wherigo:WigoVariable>
-<Identifier>
-<System:String>nI</System:String>
-</Identifier>
-<Name>
-<System:String>i</System:String>
-</Name>
-<Description>
-<System:String xsi:nil="true" />
-</Description>
-<Type>
-<Wherigo:WigoVariableType>Number</Wherigo:WigoVariableType>
-</Type>
-<Value>
-<System:Double>0</System:Double>
-</Value>
-</Wherigo:WigoVariable>
+<Wherigo:WigoVariable xsi:nil="true" ref="key184" />
 </Variables>
 <Variables>
-<Wherigo:WigoVariable xsi:nil="true" ref="key135" />
+<Wherigo:WigoVariable xsi:nil="true" ref="key144" />
 </Variables>
 <Variables>
 <Wherigo:WigoVariable>
@@ -16829,28 +17506,28 @@ szKey = TXT.Quantities_Pressure[LANG];
 </Wherigo:WigoVariable>
 </Variables>
 <Variables>
-<Wherigo:WigoVariable xsi:nil="true" ref="key83" />
+<Wherigo:WigoVariable xsi:nil="true" ref="key86" />
 </Variables>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key127" />
+<Wherigo:WigoInput xsi:nil="true" ref="key136" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key132" />
+<Wherigo:WigoInput xsi:nil="true" ref="key141" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key139" />
+<Wherigo:WigoInput xsi:nil="true" ref="key148" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key138" />
+<Wherigo:WigoInput xsi:nil="true" ref="key147" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key49" />
+<Wherigo:WigoInput xsi:nil="true" ref="key52" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key51" />
+<Wherigo:WigoInput xsi:nil="true" ref="key54" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key84" />
+<Wherigo:WigoInput xsi:nil="true" ref="key87" />
 </Inputs>
 <Inputs>
 <Wherigo:WigoInput xsi:nil="true" ref="key29" />
@@ -16868,67 +17545,70 @@ szKey = TXT.Quantities_Pressure[LANG];
 <Wherigo:WigoInput xsi:nil="true" ref="key37" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key117" />
+<Wherigo:WigoInput xsi:nil="true" ref="key126" />
 </Inputs>
 <Inputs>
 <Wherigo:WigoInput xsi:nil="true" ref="key36" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key120" />
+<Wherigo:WigoInput xsi:nil="true" ref="key129" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key143" />
-</Inputs>
-<Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key147" />
-</Inputs>
-<Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key69" />
-</Inputs>
-<Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key68" />
-</Inputs>
-<Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key71" />
-</Inputs>
-<Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key73" />
-</Inputs>
-<Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key77" />
-</Inputs>
-<Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key151" />
+<Wherigo:WigoInput xsi:nil="true" ref="key152" />
 </Inputs>
 <Inputs>
 <Wherigo:WigoInput xsi:nil="true" ref="key156" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key155" />
+<Wherigo:WigoInput xsi:nil="true" ref="key72" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+<Wherigo:WigoInput xsi:nil="true" ref="key71" />
+</Inputs>
+<Inputs>
+<Wherigo:WigoInput xsi:nil="true" ref="key74" />
+</Inputs>
+<Inputs>
+<Wherigo:WigoInput xsi:nil="true" ref="key76" />
+</Inputs>
+<Inputs>
+<Wherigo:WigoInput xsi:nil="true" ref="key80" />
 </Inputs>
 <Inputs>
 <Wherigo:WigoInput xsi:nil="true" ref="key160" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key161" />
+<Wherigo:WigoInput xsi:nil="true" ref="key165" />
+</Inputs>
+<Inputs>
+<Wherigo:WigoInput xsi:nil="true" ref="key164" />
+</Inputs>
+<Inputs>
+<Wherigo:WigoInput xsi:nil="true" ref="key174" />
+</Inputs>
+<Inputs>
+<Wherigo:WigoInput xsi:nil="true" ref="key169" />
+</Inputs>
+<Inputs>
+<Wherigo:WigoInput xsi:nil="true" ref="key170" />
 </Inputs>
 <Inputs>
 <Wherigo:WigoInput xsi:nil="true" ref="key47" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key81" />
+<Wherigo:WigoInput xsi:nil="true" ref="key84" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key82" />
+<Wherigo:WigoInput xsi:nil="true" ref="key85" />
+</Inputs>
+<Inputs>
+<Wherigo:WigoInput xsi:nil="true" ref="key50" />
 </Inputs>
 <Timers>
 <Wherigo:WigoTimer xsi:nil="true" ref="key5" />
 </Timers>
 <Player>
-<Wherigo:WigoPlayer xsi:nil="true" ref="key56" />
+<Wherigo:WigoPlayer xsi:nil="true" ref="key59" />
 </Player>
 <CurrentZone>
 <Wherigo:WigoCurrentZone>
@@ -16973,7 +17653,7 @@ szKey = TXT.Quantities_Pressure[LANG];
 </Wherigo:WigoCurrentTimer>
 </CurrentTimer>
 <Environment>
-<Wherigo:WigoEnvironment xsi:nil="true" ref="key59" />
+<Wherigo:WigoEnvironment xsi:nil="true" ref="key62" />
 </Environment>
 <StartAction>
 <Actions:EventAction>
@@ -17055,7 +17735,7 @@ updateDescriptions()
 </Actions:SnippetAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCartridge xsi:nil="true" ref="key55" />
+<Wherigo:WigoCartridge xsi:nil="true" ref="key58" />
 </Owner>
 </Actions:EventAction>
 </StartAction>
@@ -17065,7 +17745,7 @@ updateDescriptions()
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoCartridge xsi:nil="true" ref="key55" />
+<Wherigo:WigoCartridge xsi:nil="true" ref="key58" />
 </Owner>
 </Actions:EventAction>
 </EndAction>
@@ -17091,7 +17771,7 @@ REREVERSE = objPoint.REREVERSE</System:String>
 </Actions:SnippetAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCartridge xsi:nil="true" ref="key55" />
+<Wherigo:WigoCartridge xsi:nil="true" ref="key58" />
 </Owner>
 </Actions:EventAction>
 </ResumeAction>
@@ -17118,7 +17798,7 @@ objPoint.REREVERSE = REREVERSE
 </Actions:SnippetAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCartridge xsi:nil="true" ref="key55" />
+<Wherigo:WigoCartridge xsi:nil="true" ref="key58" />
 </Owner>
 </Actions:EventAction>
 </SaveAction>
@@ -17128,7 +17808,7 @@ objPoint.REREVERSE = REREVERSE
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoCartridge xsi:nil="true" ref="key55" />
+<Wherigo:WigoCartridge xsi:nil="true" ref="key58" />
 </Owner>
 </Actions:GlobalEventAction>
 </GlobalZoneEnterAction>
@@ -17138,7 +17818,7 @@ objPoint.REREVERSE = REREVERSE
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoCartridge xsi:nil="true" ref="key55" />
+<Wherigo:WigoCartridge xsi:nil="true" ref="key58" />
 </Owner>
 </Actions:GlobalEventAction>
 </GlobalZoneExitAction>
@@ -17148,7 +17828,7 @@ objPoint.REREVERSE = REREVERSE
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoCartridge xsi:nil="true" ref="key55" />
+<Wherigo:WigoCartridge xsi:nil="true" ref="key58" />
 </Owner>
 </Actions:GlobalEventAction>
 </GlobalZoneDistantAction>
@@ -17158,7 +17838,7 @@ objPoint.REREVERSE = REREVERSE
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoCartridge xsi:nil="true" ref="key55" />
+<Wherigo:WigoCartridge xsi:nil="true" ref="key58" />
 </Owner>
 </Actions:GlobalEventAction>
 </GlobalZoneProximityAction>
@@ -17168,7 +17848,7 @@ objPoint.REREVERSE = REREVERSE
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoCartridge xsi:nil="true" ref="key55" />
+<Wherigo:WigoCartridge xsi:nil="true" ref="key58" />
 </Owner>
 </Actions:GlobalEventAction>
 </GlobalZoneActiveChangedAction>
@@ -17240,10 +17920,11 @@ Input_Properties_Longitude | Longtitude | Lengtegraad | Laengengrad
 Input_Properties_Name | Name | Naam | Name
 Input_Properties_Radius | Radius | Straal | Radius
 Input_Radius | Enter the radius | Geef de straal | Radius eingeben
-Input_ReReverse | Codes are not OK, enter correct codes | De codes zijn niet juist, voer code juiste codes in | Die Codes sind nicht korrekt, gibb die richtigen Codes
+Input_ReReverse | Codes are not OK | De codes zijn niet juist | Die Codes sind nicht korrekt
 Input_ReReverseVal | Enter code %s | Voer code %s | Code %s eingeben
 Input_Roman | Enter the number | Geef het getal | Zahl eingeben
 Input_ReReverseVal | Enter the code for %s | Geef waarde voor %s | Wert fuer %s eingeven
+Input_Staf | Enter staff coordinate | Geef stafcoordinaat | Stafkoordinate eingeben
 Input_Swap | Select what to swap | Kies wat te wisselen | Auswaehlen, was getauscht werden soll
 Input_Swap_Point | Point | Punt | Punkt
 Input_Swap_Zone | Zone | Zone | Zone
@@ -17270,6 +17951,7 @@ Point_Project | Project | Projecteren | Projizieren
 Point_Project_Projection | Projection | Projectie | Projektion
 Point_Project_Projection_Relative | Relative Projection | Relatieve Projectie | Relatieve Projektion
 Point_Properties | Properties | Eigenschappen | Eigenschaften
+Point_Staf | Staff coordinate | Stafcoordinaat | Stafkoordinate
 Point_Swap | Swap | Verwissel | Tauschen
 Point_Swap_Copy | Copy | Kopie | Kopieren
 Quantities | Quantities | Grootheden | Groesse
@@ -18424,6 +19106,8 @@ function updateLanguages()
 	table.insert(objInputProperties.Choices, TXT.Input_Properties_Radius[LANG])
 	table.insert(objInputProperties.Choices, TXT.Input_Exit[LANG])
 
+	objInputStaf.Text = TXT.Input_Staf[LANG]
+	
 	objInputSwap.Text = TXT.Input_Swap[LANG]
 	objInputSwap.Choices = {}
 	table.insert(objInputSwap.Choices, TXT.Input_Swap_Point[LANG])
